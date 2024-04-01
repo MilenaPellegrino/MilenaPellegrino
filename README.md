@@ -43,6 +43,7 @@
     ![Pandas](https://img.shields.io/badge/Pandas%20-%231572B6.svg?style=for-the-badge&logo=Pandas&logoColor=white)
     ![Numpy](https://img.shields.io/badge/Numpy%20-%231572B6.svg?style=for-the-badge&logo=Numpy&logoColor=white)
     ![TensorFlow](https://img.shields.io/badge/TensorFlow%20-%231572B6.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%231572B6.svg?style=for-the-badge&logo=JavaScript&logoColor=white)
 
 <br>
 
