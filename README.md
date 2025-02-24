@@ -18,9 +18,6 @@
 <br>
 
 - Computer Science student at UNC-FaMAF
--  I'm passionate about continuous learning and sharing my knowledge with others.
-- Personal website [link](https://google.com)
-- I’m currently open for an Intern or a new job opportunity, this is [my cv](https://read.cv/milenapellegrino)
 
 <br><br>
 
