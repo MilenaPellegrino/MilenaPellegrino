@@ -4,14 +4,8 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=StackOverFlow..&hearts;++;Software+Developer,;Computer+Science+Student,;Always+Learner,;Love+to+learn+new+stuffs..<3"></a>
 </p>
-
-
-<br>
-
-
-
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## > **About me**
 
 <picture> <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGthbWN5aXoxZDN1Ynl2ajR1dHR1ZHJlN3QxeGp6d3lodHRzOHgwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width = 250px></picture>
 
@@ -19,12 +13,11 @@
 
 - Computer Science student at UNC-FaMAF
 
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
 
 <p align="center">
 
@@ -43,21 +36,12 @@
     <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
     <img src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" />
     <img src="https://img.shields.io/badge/php%20-%23EE4C2C.svg?&style=for-the-badge&logo=php&logoColor=white" />
-    
-<br>
 
 </p>
 
-<br>
-<br>
-
 -----
 
-<br>
-
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
 
 <div align="center">
 
@@ -67,9 +51,6 @@
 
 </a>
 </div>
-
-<br>
-<br>
 <br>
 
 -----
