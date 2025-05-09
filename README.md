@@ -1,7 +1,6 @@
 <!-- ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> -->
 
 I’m a Computer Science student at [FaMAF - UNC](https://www.famaf.unc.edu.ar/). with a strong background in algorithms and data structures. 
-I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-milenapellegrino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milenapellegrino/)](https://www.linkedin.com/in/milenapellegrino/)
 [![Instagram Badge](https://img.shields.io/badge/-milepellegrino-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/milepellegrino)
