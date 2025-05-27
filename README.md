@@ -30,6 +30,10 @@ I’m a Computer Science student at [FaMAF - UNC](https://www.famaf.unc.edu.ar/)
 </p>
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=MilenaPellegrino&count_private=true&show_icons=true&include_all_commits=true)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MilenaPellegrino&show_icons=true&theme=blue&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilenaPellegrino&layout=compact&langs_count=6&theme=blue&hide_border=true"/>
+</p>
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MilenaPellegrino)
