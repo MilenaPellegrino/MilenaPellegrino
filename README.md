@@ -34,6 +34,11 @@ I’m a Computer Science student at [FaMAF - UNC](https://www.famaf.unc.edu.ar/)
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MilenaPellegrino&show_icons=true&theme=blue&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilenaPellegrino&layout=compact&langs_count=6&theme=blue&hide_border=true"/>
 </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MilenaPellegrino&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
+
+
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MilenaPellegrino)
